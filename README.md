@@ -24,5 +24,26 @@ Disponibilidad y uso de camas UCI
 ## Herramientas utilizadas
 
 Excel: revisión y organización inicial de los datos
+
 Power Query: limpieza y transformación
+
 Power BI: modelado y visualización del dashboard
+
+📊 Dashboard
+A continuación se muestran las principales vistas del dashboard.
+
+### Vista general
+<img width="1450" height="796" alt="image" src="https://github.com/user-attachments/assets/285058bd-9dcd-41b2-af77-4f6eee57ef23" />
+
+
+### Positividad de casos
+![Positividad](images/positividad.png)
+
+### Hospitalizados
+![Hospitalizados](images/hospitalizados.png)
+
+### UCI
+![UCI](images/uci.png)
+
+### Fallecidos
+![Fallecidos](images/fallecidos.png)
