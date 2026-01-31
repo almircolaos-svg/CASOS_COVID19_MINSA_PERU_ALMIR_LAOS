@@ -10,10 +10,15 @@ del tiempo, para tener una visión general del impacto de la pandemia en contagi
 ## Indicadores incluidos
 
 Casos confirmados
+
 Pruebas realizadas (PCR, rápidas y antígenas)
+
 Tasa de positividad
+
 Fallecidos y letalidad
+
 Pacientes hospitalizados
+
 Disponibilidad y uso de camas UCI
 
 ## Herramientas utilizadas
