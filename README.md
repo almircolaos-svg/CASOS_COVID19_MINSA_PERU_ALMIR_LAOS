@@ -29,21 +29,22 @@ Power Query: limpieza y transformación
 
 Power BI: modelado y visualización del dashboard
 
-📊 Dashboard
+## 📊 Dashboard
+
 A continuación se muestran las principales vistas del dashboard.
 
-### Vista general
-<img width="1450" height="796" alt="image" src="https://github.com/user-attachments/assets/285058bd-9dcd-41b2-af77-4f6eee57ef23" />
+## Vista general
+<img width="1444" height="800" alt="image" src="https://github.com/user-attachments/assets/5eb1209b-ef0a-40e8-b987-cfd81ecc26e8" />
 
+## Positividad de casos
+<img width="1448" height="796" alt="image" src="https://github.com/user-attachments/assets/f7684426-9e93-4f20-a639-502017ed4776" />
 
-### Positividad de casos
-![Positividad](images/positividad.png)
+## Hospitalizados
+<img width="1449" height="796" alt="image" src="https://github.com/user-attachments/assets/236fde6c-aade-4c13-b6a4-69e40934a213" />
 
-### Hospitalizados
-![Hospitalizados](images/hospitalizados.png)
-
-### UCI
-![UCI](images/uci.png)
+## UCI
+<img width="1444" height="798" alt="image" src="https://github.com/user-attachments/assets/4c7260a6-0c28-4264-b1ac-7a944d14d0f8" />
 
 ### Fallecidos
-![Fallecidos](images/fallecidos.png)
+<img width="1446" height="801" alt="image" src="https://github.com/user-attachments/assets/d77f1c28-ee5e-431e-a980-bbfbb649bfd2" />
+
